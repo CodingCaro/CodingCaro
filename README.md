@@ -1,11 +1,13 @@
-### Hi there 👋
+ Hi there 👋 I'm Caroline Akinyi
 
 <!--
 **CodingCaro/CodingCaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my first app. I also write techni articles. Click https://akinyi.hashnode.dev/ to read my works.
+- 🔭 I’m currently working on GraphQL
+
+- Click https://akinyi.hashnode.dev/ to read my works.
 
 
 - 🌱 I’m currently learning Java and Python
