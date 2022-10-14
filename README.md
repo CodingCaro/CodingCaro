@@ -2,7 +2,7 @@
  
  I’m currently learning Kotlin
  
- Click https://akinyi.hashnode.dev/ to read my works
+ My works are here 👉 https://akinyi.hashnode.dev/
  
 🌱 I’m currently learning Python
 
