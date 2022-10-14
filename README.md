@@ -1,4 +1,4 @@
- Hi there 👋 I'm Caroline Akinyi
+ Hi there friend👋 I'm Caroline Akinyi
 
 <!--
 **CodingCaro/CodingCaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
