@@ -1,8 +1,13 @@
  Hi there friend👋 I'm Caroline Akinyi
+ 
  I’m currently learning Kotlin
+ 
  Click https://akinyi.hashnode.dev/ to read my works
+ 
 🌱 I’m currently learning Python
+
 👯 I’m looking to collaborate on any project but not limited to web dev related, android or technical writing
+
 💬 Open for colaborations and work on web development, applications and technical writing
 
 
